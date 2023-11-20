@@ -14,5 +14,5 @@ Cheating in exams is not only immoral and unethical, but it also undermines the 
   - Assignment 8
   - Assignment 9
 - Upload to GitHub
-- EST evaluation
+- Copy code during EST evaluation
 
