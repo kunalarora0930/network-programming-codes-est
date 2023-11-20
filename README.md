@@ -1,5 +1,5 @@
 # !! Cheating is unethical
-This is not intended to be used for unethical activities, including cheating, unauthorized access, or any form of academic dishonesty.
+This repository is not intended to be used for unethical activities, including cheating or any form of academic dishonesty.
 Respect academic integrity and the policies of your educational institution.😌
 
 ## Todo-
